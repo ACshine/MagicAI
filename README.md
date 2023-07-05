@@ -1,0 +1,2 @@
+# MagicAI
+A great project!
